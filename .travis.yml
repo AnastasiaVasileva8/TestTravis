@@ -1,1 +1,3 @@
-language: cpp
+language: c
+compiler: gcc
+script: make && make test
